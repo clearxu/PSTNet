@@ -1,3 +1,3 @@
 # PSTNet
-SSANet: A multi-scale aligned polyp segmentation network with frequency domain cues 
+PSTNet: Multi-scale aligned Polyp Segmentation Network with Frequency Domain Cues 
 ## Code coming soon ...
