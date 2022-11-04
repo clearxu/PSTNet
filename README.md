@@ -1,3 +1,3 @@
-# SSANet
+# PSTNet
 SSANet: A multi-scale aligned polyp segmentation network with frequency domain cues 
 ## Code coming soon ...
